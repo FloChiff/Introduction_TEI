@@ -7,7 +7,7 @@ Ce cours se déroule en trois temps :
 2. Expérimentation
 3. Aller plus loin
 
-Dans le cadre de la deuxième partie du cours, les participants devront procéder à une application pratique de ce qui leur aura été enseigné sur la mise en place d'un arbre XML TEI. Pour ce faire, et afin de répondre au mieux aux attentes des participants, il est conseillé à ses derniers de se munir d'un texte sur lequel ils aimeraient travailler pour faire leur encodage (texte en prose, pièce de théâtre, poème, égodocument, édition critique, etc.). Dans le cas où ils n'auraient pas de texte avec lequel travailler, des documents de travail seront mis à disposition.
+Dans le cadre de la deuxième partie du cours, les participants devront procéder à une application pratique de ce qui leur aura été enseigné sur la mise en place d'un arbre XML TEI. Pour ce faire, et afin de répondre au mieux aux attentes des participants, il est conseillé à ses derniers de se munir d'un texte sur lequel ils aimeraient travailler pour faire leur encodage (texte en prose, pièce de théâtre, poème, égodocument, édition critique, etc.). Ce texte devra être assez long afin d'avoir suffisament de contenu à traiter et il sera nécessaire également d'avoir les informations en lien avec la source du texte (titre, auteur, lieu de conservation, etc.). Dans le cas où les participants n'auraient pas de texte avec lequel travailler, des documents de travail seront mis à disposition.
 
 ___
 
@@ -25,7 +25,7 @@ B - Travaux pratiques (Encoder vos propres documents)
 
 III - Aller plus loin : différentes applications de la TEI  
 A - Transformer son corpus (XSLT et TEI Publisher)  
-B - Documenter et adapter la TEI (ODD)  
+B - Structurer et documenter la TEI (ODD)  
 
 ___
 
