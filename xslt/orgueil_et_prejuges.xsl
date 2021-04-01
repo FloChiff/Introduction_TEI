@@ -37,6 +37,12 @@
                 <div>
                     <h2>Transcriptions</h2>
                     <div>
+                        <h3>Texte original</h3>
+                        <p>
+                            <xsl:apply-templates select="//text//div[@type='transcription']/div[@type='original']/p"/>
+                        </p>
+                    </div>
+                    <div>
                     <h3>Ancien français</h3>
                     <p>
                         <xsl:apply-templates select="//text//div[@type='transcription']/div[@type='traduction']/p" mode="orig"/>
