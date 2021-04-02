@@ -114,7 +114,7 @@
                 <div type="figure">
                     <head>Exemple de figure</head>
                     <figure>
-                        <graphic url="inr_logo_rouge.jpg" width="2cm"/>
+                        <graphic url="images/inr_logo_rouge.jpg" width="2cm"/>
                         <head>Logo de l'Inria</head>
                         <figDesc>L'image montre le logo de l'Inria, écrit en rouge et en écriture cursive.</figDesc>
                     </figure>
