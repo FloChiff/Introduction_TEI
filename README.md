@@ -19,13 +19,21 @@ I - Histoire
 A - Introduction à la XML, langage de balisage utilisé pour la TEI  
 B - Introduction à la TEI  
 
-II - Expérimentation  
-A - Comment encoder un document avec la TEI  
-B - Travaux pratiques (Encoder vos propres documents)  
+II - Expérimentation  : Comment encoder un document avec la TEI
+A - Les métadonnées
+B - Les annexes  
+C - Le corps du texte  
+D - Les éléments spécifiques  
 
 III - Aller plus loin : différentes applications de la TEI  
 A - Transformer son corpus (XSLT et TEI Publisher)  
 B - Structurer et documenter la TEI (ODD)  
+
+___
+
+## Outil d'encodage  
+
+Oxygen XML Editor : [https://www.oxygenxml.com](https://www.oxygenxml.com)
 
 ___
 
