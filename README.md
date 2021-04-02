@@ -19,8 +19,8 @@ I - Histoire
 A - Introduction à la XML, langage de balisage utilisé pour la TEI  
 B - Introduction à la TEI  
 
-II - Expérimentation  : Comment encoder un document avec la TEI
-A - Les métadonnées
+II - Expérimentation  : Comment encoder un document avec la TEI  
+A - Les métadonnées  
 B - Les annexes  
 C - Le corps du texte  
 D - Les éléments spécifiques  
