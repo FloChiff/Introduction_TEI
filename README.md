@@ -1,6 +1,6 @@
 # Introduction à la Text Encoding Initiative (TEI)
 
-Ce repository regroupe les documents liés à la formation d'introduction à la TEI, dispensée à l'URFIST de Rennes le 13 et 14 avril 2021.
+Ce repository regroupe les documents liés à la formation d'introduction à la TEI, dispensée à l'URFIST de Rennes.
 
 Ce cours se déroule en trois temps :
 1. Histoire
